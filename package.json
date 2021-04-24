@@ -1,5 +1,5 @@
 {
-  "name": "footDistrictAccGen",
+  "name": "typescript-basic-project-boilerplate",
   "version": "1.0.0",
   "main": "src/index.ts",
   "license": "MIT",
